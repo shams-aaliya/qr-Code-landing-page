@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-Code-landing-page/static/css/main.5427917e.css",
+    "main.js": "/qr-Code-landing-page/static/js/main.4311f9a2.js",
+    "static/js/787.2363a83c.chunk.js": "/qr-Code-landing-page/static/js/787.2363a83c.chunk.js",
+    "index.html": "/qr-Code-landing-page/index.html",
+    "main.5427917e.css.map": "/qr-Code-landing-page/static/css/main.5427917e.css.map",
+    "main.4311f9a2.js.map": "/qr-Code-landing-page/static/js/main.4311f9a2.js.map",
+    "787.2363a83c.chunk.js.map": "/qr-Code-landing-page/static/js/787.2363a83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5427917e.css",
+    "static/js/main.4311f9a2.js"
+  ]
+}
